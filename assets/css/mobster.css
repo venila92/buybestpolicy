@@ -1268,6 +1268,7 @@ hr {
 .theme-list .list-item {
   padding-top: 6px;
   padding-bottom: 6px;
+  font-size: 24pt;
 }
 
 .theme-list .list-item::before {
@@ -2156,8 +2157,8 @@ hr {
 
 .page-footer-section {
   position: relative;
-  padding-top: 100px;
-  padding-bottom: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #F0EEF5;
 }
 

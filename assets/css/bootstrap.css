@@ -7464,7 +7464,7 @@ button.bg-dark:focus {
 }
 
 .justify-content-center {
-  justify-content: center !important;
+  justify-content: left !important;
 }
 
 .justify-content-between {
@@ -8546,7 +8546,7 @@ button.bg-dark:focus {
 }
 
 .p-3 {
-  padding: 1rem !important;
+  padding: 0rem !important;
 }
 
 .pt-3,
