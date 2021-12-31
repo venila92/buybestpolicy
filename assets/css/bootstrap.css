@@ -7464,7 +7464,7 @@ button.bg-dark:focus {
 }
 
 .justify-content-center {
-  justify-content: left !important;
+  justify-content: center !important;
 }
 
 .justify-content-between {
@@ -10852,4 +10852,5 @@ a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
+  
 }
